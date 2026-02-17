@@ -25,3 +25,8 @@ Then the user inserts the money that they have.
 If the user has the perfect amount, nothing is returned, 
 If they insert more, the user takes the change, 
 and if the user inserts less money, the program will say: System.out.println("You're broke. Take your " + money + " and go elsewhere"); 
+
+/!\ This is a Java program I wrote for a class assignment. /!\ 
+
+Thanks!
+
